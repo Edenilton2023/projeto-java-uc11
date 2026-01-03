@@ -1,0 +1,31 @@
+1. Inicialização e Preparação Local
+
+Comando: git init
+
+Descrição: Inicializei o repositório Git local na pasta do projeto para permitir o rastreamento de arquivos.
+
+Comando: git add .
+
+Descrição: Adicionei todos os arquivos do projeto (incluindo o banco de dados uc11.sql) à área de preparação (staging area).
+
+Comando: git commit -m "Projeto inicial"
+
+Descrição: Realizei o primeiro commit salvando o estado inicial do software LeiloesTDSat.
+
+2. Conexão com o GitHub
+
+Comando: git remote add origin https://github.com/Edenilton2023/projeto-java-uc11.git
+
+Descrição: Estabeleci o vínculo entre o meu repositório local e o repositório remoto criado no GitHub.
+
+Comando: git push -u origin master
+
+Descrição: Enviei os arquivos locais para a nuvem. 
+
+
+ 
+
+link público do seu repositório: Link do Repositório:
+https://github.com/Edenilton2023/projeto-java-uc11
+
+
