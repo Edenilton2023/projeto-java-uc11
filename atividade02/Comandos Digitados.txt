@@ -1,0 +1,14 @@
+Link do Repositório Remoto
+
+URL: https://github.com/Edenilton2023/projeto-java-uc11.git
+
+Comandos Digitados
+git add . (Para preparar as classes ProdutosDAO.java e listagemVIEW.java)
+
+git commit -m "Commit #1: Definindo cadastroVIEW como tela inicial"
+
+git commit -m "Commit #2: Funcionalidade Salvar (INSERT) implementada"
+
+git commit -m "Commit #4: Implementação da listagem de produtos na interface gráfica"
+
+git push origin master (Para sincronizar o trabalho local com o GitHub)
